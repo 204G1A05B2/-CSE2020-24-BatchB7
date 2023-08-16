@@ -1,8 +1,15 @@
-Abstract
+Abstract:
+
 The main aim of this project is to provide privacy or security for uploaded data. Dual access for data owners by data owner permission.
 To protect sensitive data from being compromised, the most widely used method is encryption. However, simply encrypting data (e.g., via AES) cannot fully address the practical need of data management. Besides, an effective access control over download request also needs to be considered so that Economic Denial of Sustainability (EDoS) attacks cannot be launched to hinder users from enjoying service. 
 we consider the dual access control, in the context of cloud-based storage, in the sense that we design a control mechanism over both data access and download request without loss of security and efﬁciency.Two dual access control systems are designed in this paper, where each of them is for a distinct designed setting. 
+
 PROBLEM STATEMENTS:
 Develop a dual access control system that ensures secure data storage and sharing in cloud environments, addressing the challenge of balancing user convenience with robust security measures.
 Create a solution that allows authorized users to seamlessly access and share data while preventing unauthorized access by implementing a multi-layered authentication and authorization framework.
 Design a mechanism that enables data owners to retain control over access permissions, granting temporary access to specific users, all while maintaining data integrity and confidentiality in cloud-based storage and sharing scenarios
+
+Proposed System:
+
+In proposed system, we propose a new mechanism, dubbed dual access control, to tackle the above aforementioned two problems. 
+To secure data in cloud-based storage service, attribute-based encryption is one of the promising candidates that enables the conﬁdentiality of out sourced data as well as ﬁne-grained control over the outsourced data
