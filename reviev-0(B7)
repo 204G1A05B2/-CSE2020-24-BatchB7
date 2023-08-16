@@ -13,3 +13,11 @@ Proposed System:
 
 In proposed system, we propose a new mechanism, dubbed dual access control, to tackle the above aforementioned two problems. 
 To secure data in cloud-based storage service, attribute-based encryption is one of the promising candidates that enables the conﬁdentiality of out sourced data as well as ﬁne-grained control over the outsourced data
+
+Objectives of Project:
+
+The secure cloud storage using Symmetric Searchable Encryption (SSE) and Attribute-Based Encryption (ABE) approaches is to examine the advantages, limitations, and comparative analysis of these techniques. The survey aims to provide insights into the security, efficiency, and practicality of SSE and ABE for cloud-based data storage and sharing.
+This will help in understanding the current state-of-the-art and identifying potential areas for further research and improvement.                                                                                                              
+The objective of the literature survey on Searchable Encryption (SE) is to investigate the trade-off between security and efficiency in academic SE schemes. 
+The survey aims to explore the challenges and vulnerabilities associated with query information leakage and the potential inference attacks that can exploit such leakage. 
+By examining the existing research, the survey seeks to identify the limitations of current SE schemes and propose strategies to enhance their security while maintaining efficiency. The goal is to contribute to the development of more robust and privacy-preserving SE techniques for secure cloud-based data storage and sharing.
